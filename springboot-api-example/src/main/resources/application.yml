@@ -1,0 +1,6 @@
+server:
+ port:
+
+  Spring:
+    main:
+      web-application-type: servelet
